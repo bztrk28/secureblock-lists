@@ -447864,3 +447864,5 @@ efatura.ttnet-fatura.com
 csi.efatura-turkcell.net
 cryptdomain.dp.ua
 ezgielektronik.com
+paradisedev.org
+api.paradisedev.org
